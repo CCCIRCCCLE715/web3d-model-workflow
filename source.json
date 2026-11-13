@@ -1,0 +1,12 @@
+{
+  "original_attachment": "3D网页三步配套资料.zip",
+  "published_date": "2026-11-13",
+  "sha256": "c841e5f143baee92388d2b4a692030d9eade4ac8f30bee7404f51cdedace3f5a",
+  "original_files": [
+    "3D网页_自动识别模型与视差滚动提示词.txt",
+    "Image2_六屏网页设计通用提示词.txt",
+    "web3d-model-workflow/SKILL.md",
+    "web3d-model-workflow/agents/openai.yaml",
+    "web3d-model-workflow/references/connections.md"
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "3D 网页分件建模"
+  short_description: "自动选择 Blender 与 Aholo Lux3D，生成零件并组装为可拆分网页模型"
+  default_prompt: "使用 $web3d-model-workflow，读取当前项目的设计图和参考，选择合适的建模方式，制作可拆分模型并记录网页可自动读取的资产清单。"
